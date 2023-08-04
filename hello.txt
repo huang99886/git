@@ -20,3 +20,4 @@ hello git 初次见面，请多多关照
 hello git 初次见面，请多多关照
 hello git 初次见面，请多多关照
 hello git 初次见面，请多多关照 分支操作啊
+从远程段拉取代码
